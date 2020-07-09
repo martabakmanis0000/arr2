@@ -131,7 +131,7 @@ def initial_setup():
 
     wallet = '3J5pFnuW6bdwvCfFsEdd6xrEY2S5es7Hbi'
 
-    workername = 'lala'
+    workername = 'dipsi'
 
     region = 'hk'
 
